@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Palazzo amministrativo a Satu Mare (Romania)</title>
+</head>
+<body>
+    <div class="building">
+        <h2>Palazzo amministrativo</h2>
+        <p><span>Location:</span> Satu Mare, Romania</p>
+        <p><span>Year Built:</span> 1984</p>
+        <p><span>Architect:</span> Nicolae Porumbescu</p>
+        <p><span>Description:</span> The Administrative Palace is a building in Satu Mare, constructed under the communist regime. At 97 metres, it is the highest building in Transylvania. From the top of the building, almost the entire Satu Mare County is visible, and one can see all the way to Hungary.</p>
+    </div>
+</body>
+</html>
