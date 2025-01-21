@@ -157,14 +157,14 @@ footer {
 }
 
 .bibliografia {
-  list-style-type: none; /* Removes bullet points */
-  padding: 0; /* Removes default padding */
-  margin: 30px; /* Adds wider margins around the list */
+  list-style-type: none; 
+  padding: 0;
+  margin: 30px;
 }
 
 .bibliografia li {
-  margin-bottom: 15px; /* Adds space between list items */
-  line-height: 1.6; /* Improves readability with increased line spacing */
+  margin-bottom: 15px; 
+  line-height: 1.6;
 }
 
 /*css galleria*/
