@@ -101,7 +101,7 @@ footer {
 .gallery li {
   display: inline-block;
 }
-
+/*css for navigation bar*/
 .topnav {
   background-color: grey;
   overflow: hidden;
@@ -117,7 +117,7 @@ footer {
   text-decoration: none;
 }
 
-.topnav .active {
+.topnav a.active {
   color: black;
   background-color: #A9A9A9;
 }
@@ -160,12 +160,12 @@ footer {
   list-style-type: none; /* Removes bullet points */
   padding: 0; /* Removes default padding */
   margin: 30px; /* Adds wider margins around the list */
-        }
+}
 
-        .bibliografia li {
-            margin-bottom: 15px; /* Adds space between list items */
-            line-height: 1.6; /* Improves readability with increased line spacing */
-        }
+.bibliografia li {
+  margin-bottom: 15px; /* Adds space between list items */
+  line-height: 1.6; /* Improves readability with increased line spacing */
+}
 
 /*css galleria*/
 .list-items {
@@ -219,3 +219,16 @@ footer {
         margin-bottom: 10px;
     }
 }
+
+.xml-button {
+            display: inline-block;
+            padding: 10px 20px;
+            font-size: 16px;
+            font-family: Arial, sans-serif;
+            color: white;
+            background-color: grey;
+            border: none;
+            border-radius: 5px;
+            text-decoration: none;
+            text-align: center;
+        }
